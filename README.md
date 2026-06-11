@@ -32,7 +32,8 @@ O inventário é essencial para a progressão do jogador no jogo. Ele permite o 
 
 - <img align="center" alt="Theus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">**HTML**: Estruturação do conteúdo da página.
 - <img align="center" alt="Theus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">**CSS**: Estilização visual e responsividade.
-- **Editor**: *[Seu editor preferido, ex: VS Code]* — utilizado para escrever e organizar o código.
+- <img align="center" alt="Theus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">**PHP**: Parte lógica e operacional.
+- **Editor**: *VSCode* — utilizado para escrever e organizar o código.
 
 Essas ferramentas foram escolhidas por serem amplamente suportadas e ideais para construção rápida de interfaces web interativas e personalizadas.
 
@@ -120,10 +121,12 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 ### Os arquivos da pasta são esses:
 ![hierarquia](https://github.com/user-attachments/assets/6312993e-116b-46bc-bc2b-faaae0ba1400)
 
-- A pasta sql 📂, está os arquivos .sql apra conexão com o banco de dados PhpMyAdmin
+- A pasta sql 📂, está os arquivos .sql para conexão com o banco de dados PhpMyAdmin
 - O arquivo "login.php", deve ser o primeiro arquivo a ser executado com o seguinte comando em um browser:
   
   <pre><code>localhost/MatheusINFO3/login.php</code></pre>
+
+- Obs.: É importante que a pasta seja anexada no local <pre><code>C:\xampp/htdocs</code></pre> para funcionar.
 
 ### Agora, é só divertir! 😊
  
